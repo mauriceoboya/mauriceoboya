@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine learning and AI Developer</h3>
 <image  align='right'  width='300' alt='coding' src='https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif'>
 
-- 🔭 I’m currently working on *Radial Basis Functions*
+- 🔭 I’m currently working on **Radial Basis Functions**
 
 - 🌱 I’m currently learning **Hybrid Neural Network**
 
