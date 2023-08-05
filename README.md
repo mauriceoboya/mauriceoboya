@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Radial Basis Functions Neural Network**
 
-- 📫 How to reach me **oboyamaurice@gmail.com**
+- 📫 How to reach me **oboyamaurice**
 
 - ⚡ Fun fact **Artificial intelligence in the new cool.**
 
