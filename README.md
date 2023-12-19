@@ -1,4 +1,4 @@
-Ni<h1 align="center">Hi 👋, I'm Oboya Maurice</h1>
+<h1 align="center">Hi 👋, I'm Oboya Maurice</h1>
 <h3 align="center">A passionate Machine learning and AI Developer</h3>
 <image  align='right'  width='300' alt='coding' src='https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif'>
 
