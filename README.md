@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oboya Maurice</h1>
+Ni<h1 align="center">Hi 👋, I'm Oboya Maurice</h1>
 <h3 align="center">A passionate Machine learning and AI Developer</h3>
 <image  align='right'  width='300' alt='coding' src='https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif'>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **oboyamaurice**
 
-- ⚡ Fun fact **Artificial intelligence in the new cool.**
+- ⚡ Fun fact **Artificial intelligence is the new cool.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
