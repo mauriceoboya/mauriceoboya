@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oboya Maurice</h1>
 <h3 align="center">A passionate Machine learning and AI Developer</h3>
 <image  align='right'  width='300' alt='coding' src='https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif'>
-
-- 🔭 I’m currently working on **Radial Basis Functions**
+I have a keen interest in Machine Learning and Artificial Intelligence, constantly seeking to expand my knowledge and skills in these fields.
 
 - 🌱 I’m currently learning **Hybrid Neural Network**
 
@@ -11,6 +10,7 @@
 - 📫 How to reach me **oboyamaurice**
 
 - ⚡ Fun fact **Artificial intelligence is the new cool.**
+- Publications ** A Hybrid DNN-RBFNN Model for Intrusion Detection Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
