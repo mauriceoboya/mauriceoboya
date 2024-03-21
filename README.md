@@ -10,7 +10,7 @@ I have a keen interest in Machine Learning and Artificial Intelligence, constant
 - 📫 How to reach me **oboyamaurice**
 
 - ⚡ Fun fact **Artificial intelligence is the new cool.**
-- Publications ** A Hybrid DNN-RBFNN Model for Intrusion Detection Systems**
+- Publications: **A Hybrid DNN-RBFNN Model for Intrusion Detection Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
