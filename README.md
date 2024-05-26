@@ -21,7 +21,7 @@ I have a keen interest in Machine Learning and Artificial Intelligence, constant
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauriceoboya&show_icons=true&locale=en&layout=compact" alt="mauriceoboya" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauriceoboya&show_icons=true&locale=en" alt="mauriceoboya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauriceoboya&" alt="mauriceoboya" /></p>
 
