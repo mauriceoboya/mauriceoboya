@@ -11,8 +11,6 @@ I have a keen interest in Machine Learning and Artificial Intelligence, constant
 
 - ⚡ Fun fact **Artificial intelligence is the new cool.**
 - Publications: **A Hybrid DNN-RBFNN Model for Intrusion Detection Systems** (https://www.scirp.org/journal/paperinformation?paperid=128813)
-
-<h3 align="left">Connect with me: +254790472647</h3>
 <p align="left">
 </p>
 
