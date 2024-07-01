@@ -23,3 +23,7 @@ I have a keen interest in Machine Learning and Artificial Intelligence, constant
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauriceoboya&" alt="mauriceoboya" /></p>
 
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mauriceoboya/count.svg" />
+</p>
