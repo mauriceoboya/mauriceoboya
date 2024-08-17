@@ -7,9 +7,6 @@ I have a keen interest in Machine Learning and Artificial Intelligence, constant
 
 - 💬 Ask me about **Radial Basis Functions Neural Network**
 
-- 📫 How to reach me **oboyamaurice**
-
-- ⚡ Fun fact **Artificial intelligence is the new cool.**
 - Publications: **A Hybrid DNN-RBFNN Model for Intrusion Detection Systems** (https://www.scirp.org/journal/paperinformation?paperid=128813)
 <p align="left">
 </p>
